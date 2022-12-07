@@ -4,3 +4,8 @@
  
 	
 	开始 • 更新日志 • 支持选项 • 指纹识别规则 • 实际效果 • TODO • 感谢列表 
+	
+0x00 项目起源
+     
+0x01 使用方法
+将xray nuclei Finger observer 
