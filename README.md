@@ -11,7 +11,7 @@
      
 0x01 使用方法
      
-     将xray nuclei Finger observer fscan masscan httpx放到根目录下，实现自动化
+     将xray nuclei Finger observer fscan masscan httpx放到根目录下，实现自动化，使用xray高级版效果更佳。
      执行：python3 londly.py -i ip.txt  -p 1-65535 --rate 1000 2>&1 &
      
 0x02 免责声明
